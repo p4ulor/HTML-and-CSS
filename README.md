@@ -1,4 +1,4 @@
-- Notes, demos & explanation of stuff about HTML & CSS and some JavaScript.
+- Notes, demos & explanation of stuff about HTML & CSS and some JavaScript
 - It's recommended to open this repo using VSC. The editor comes built-in with documentation of the various commands and elements, which can be viewed when hovering the cover over them
 
 ## Online sandboxes
